@@ -1,0 +1,16 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+pydantic==2.7.1
+opencv-python-headless==4.9.0.80
+ultralytics==8.2.0
+pytesseract==0.3.10
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
+Pillow==10.3.0
+numpy==1.26.4
+python-dotenv==1.0.1
+pyttsx3==2.90
+gtts==2.5.1
+pygame==2.5.2
+websockets==12.0
